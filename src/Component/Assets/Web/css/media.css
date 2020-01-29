@@ -1,0 +1,227 @@
+@media (min-width: 320px) {
+    .signup-free-membership-banner,
+    .signup-premimum-membership-banner {
+        font-size: 0.8rem;
+    }
+    .signup-free-membership-banner span,
+    .signup-premimum-membership-banner span {
+        font-size: 1.8rem;
+    }
+    .membership-listing-banner.slick-slider {
+        margin-bottom: 10px !important;
+    }
+    .anchors {
+        font-size: 0.8rem;
+        display: none;
+    }
+    .stuck {
+        position: inherit;
+    }
+    .members-list-container {
+        margin-left: 0;
+    }
+    #product-categories h3 {
+        font-size: 1.4rem;
+    }
+    .product-category-wrapper .product-category-title {
+        font-size: 0.6rem;
+    }
+}
+
+@media (min-width: 576px) {
+    .signup-free-membership-banner,
+    .signup-premimum-membership-banner {
+        font-size: 1.2rem;
+    }
+    .signup-free-membership-banner span,
+    .signup-premimum-membership-banner span {
+        font-size: 2rem;
+    }
+    .anchors {
+        font-size: 1.2rem;
+        width: 520px;
+        display: block;
+    }
+    .stuck {
+        position: fixed;
+    }
+}
+
+@media (min-width: 768px) {
+    .lp-top-categories-box--title {
+        font-size: 16px;
+        line-height: normal;
+    }
+    .members-list-advertisemnt {
+        top: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .lp-top-categories-box--title {
+        font-size: 7px;
+        line-height: normal;
+    }
+    #top-categories h2 {
+        color: #000;
+        font-family: 'Fugaz One', cursive !important;
+        text-align: justify !important;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .first-slider {
+        /*margin-bottom:10px;*/
+        padding: 0;
+    }
+    #owl-demo .item img {
+        display: block;
+        width: 100%;
+        height: 150px;
+        position: relative;
+    }
+}
+
+@media (min-width: 992px) {
+    .lp-top-categories-box--title {
+        font-size: 16px;
+        line-height: normal;
+    }
+    .signup-free-membership-banner,
+    .signup-premimum-membership-banner {
+        font-size: 1.2rem;
+    }
+    .signup-free-membership-banner span,
+    .signup-premimum-membership-banner span {
+        font-size: 2.4rem;
+    }
+    .anchors {
+        width: 690px;
+    }
+    .members-list-container {
+        margin-left: -15px;
+    }
+    #product-categories h3 {
+        font-size: 2rem;
+    }
+    .product-category-wrapper .product-category-title {
+        font-size: 0.8rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .lp-top-categories-box--title {
+        font-size: 16px;
+        line-height: normal;
+    }
+    .signup-free-membership-banner,
+    .signup-premimum-membership-banner {
+        font-size: 1.6rem;
+    }
+    .signup-free-membership-banner span,
+    .signup-premimum-membership-banner span {
+        font-size: 2.8rem;
+    }
+    .anchors {
+        width: 820px;
+    }
+    .members-list-advertisemnt {
+        top: -120px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .img-fluid {
+        max-width: 100% !important;
+        height: auto;
+    }
+    #owl-demo-offers .item img {
+        display: block;
+        width: 100%;
+        height: 130px;
+        position: relative;
+    }
+    #owl-demo-news img {
+        height: 180px;
+    }
+    .member {
+        height: 180px;
+    }
+    .member img {
+        height: 100%;
+    }
+    .breadcrumb_new a {
+        display: inline-block;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .breadcrumb-area {
+        background-size: cover;
+        background-position: center;
+        height: 350PX;
+    }
+    .breadcrumb-title h2 {
+        margin: 0;
+        text-transform: capitalize;
+        font-weight: 200;
+        color: #fff;
+        padding-top: 168px;
+        font-size: 16px !important;
+    }
+    .breadcrumb-title h5 {
+        margin: 0;
+        text-transform: capitalize;
+        font-weight: 200;
+        color: #fff;
+        padding-top: 188px;
+        font-size: 16px !important;
+    }
+    .breadcrumb-title p {
+        margin: 0;
+        text-transform: capitalize;
+        font-weight: normal;
+        color: #fff;
+        font-size: 12px;
+    }
+    .nav-tabs .nav-link img {
+        width: 15px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 12px;
+    }
+    .nav-tabs .nav-item {
+        font-size: 10px;
+    }
+    .nav .nav-link {
+        font-size: 11px;
+    }
+    .company-location1 iframe {
+        width: 260px;
+        height: 200px;
+    }
+    .company-location iframe {
+        width: 300px;
+        height: 200px;
+    }
+    .ass-img {
+        margin-top: 10px;
+        width: 50px !important;
+        border: 2px solid #f76a3c;
+        border-radius: 50px;
+        padding: 5px;
+    }
+    .product-category-wrapper li:nth-child(2n+2):after {
+        background: none;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #top-categories .lp-top-categories-box {
+        background: #fff;
+        color: #000;
+        height: 100px !important;
+        position: relative;
+        transition: all 0.5s;
+        border: 1px solid #cccc;
+        border-radius: 0%;
+    }
+}
